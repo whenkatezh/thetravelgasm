@@ -1,0 +1,23 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+classes/
+bin/
+build/
+.gradle/
+.classpath
+.project
+.settings/
+#.externalToolBuilders/
+*.*~
+*.kate-swp
+.DS_Store
+.sass-cache/
+
